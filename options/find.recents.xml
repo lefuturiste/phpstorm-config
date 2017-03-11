@@ -1,0 +1,39 @@
+<application>
+  <component name="FindRecents">
+    <findStrings>
+      <find>dow</find>
+      <find>email-register</find>
+      <find>bill</find>
+      <find>admin</find>
+      <find>validate-email-has-been-send</find>
+      <find>success</find>
+      <find>confirm-em</find>
+      <find>$totalCost</find>
+      <find>config</find>
+      <find>message</find>
+      <find>file</find>
+      <find>email</find>
+      <find>{{ email</find>
+      <find>email-reg</find>
+      <find>logout</find>
+      <find>purchase</find>
+      <find>add-release</find>
+      <find>valid</find>
+      <find>order</find>
+      <find>item</find>
+      <find>register</find>
+      <find>regis</find>
+      <find>login</find>
+      <find>add</find>
+      <find>basePath</find>
+      <find>form</find>
+      <find>form-send</find>
+      <find>btn</find>
+      <find>nav</find>
+      <find>render</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>#EFEFEF</replace>
+    </replaceStrings>
+  </component>
+</application>

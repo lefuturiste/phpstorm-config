@@ -1,0 +1,21 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="com.chrisrm.idea.MaterialThemeUI.theme" value="DARKER" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="file.chooser.recent.files" value="C:/xampp/htdocs/projets/LAB/slim3-multilanguage&#10;C:/xampp/htdocs/projets/fr_lefuturiste_www&#10;C:/xampp/htdocs/projets/net_flycraft-network_plugcraft&#10;C:/xampp/htdocs/projets/admin_panel&#10;C:/xampp/htdocs/projets/LAB/stail.eu&#10;C:/xampp/htdocs/projets/api&#10;C:/xampp/htdocs/projets/fr_lefuturiste_tools&#10;C:/Users/mbess/Desktop/IntelliTail.jar&#10;C:/xampp/htdocs/projets/stail_account&#10;C:/xampp/htdocs/projets/LAB/MyPhpArchitecture&#10;C:/xampp/htdocs/projets" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="23" />
+    <property name="PLUGIN_FILTER" value="ph" />
+    <property name="KEYMAP" value="REfac&#10;rename&#10;new" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Desktop" />
+    <property name="ColorChooser.RecentColors" value="238-238-238-255,,,201-31-55-255" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="settings.code.style.selected.tab.JSON" value="Wrapping and Braces" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="markdown.do.not.ask.to.change.preview.provider" value="true" />
+    <property name="selected.color.option.type" value="PHP_PARAMETER" />
+  </component>
+</application>

@@ -1,0 +1,162 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="php-interpreter-version">
+      <project id="stail.eu" values="not installed" collectionTime="1488206728487" />
+      <project id="fr_lefuturiste_www" values="7.0.9" collectionTime="1489251769881" />
+      <project id="api" values="not installed" collectionTime="1488124501230" />
+      <project id="MyPhpArchitecture" values="7.0.9" collectionTime="1487532118434" />
+      <project id="stail_account" values="not installed" collectionTime="1487682514096" />
+      <project id="admin_panel" values="not installed" collectionTime="1488206849521" />
+      <project id="slim3-multilanguage" values="not installed" collectionTime="1489251767988" />
+      <project id="pocketmanager" values="7.0.9" collectionTime="1487343570025" />
+      <project id="net_flycraft-network_plugcraft" values="not installed" collectionTime="1489129174921" />
+      <project id="fr_lefuturiste_tools" values="not installed" collectionTime="1488042702580" />
+    </group>
+    <group name="php-servers">
+      <project id="stail.eu" values="0" collectionTime="1488206728487" />
+      <project id="fr_lefuturiste_www" values="0" collectionTime="1489251769853" />
+      <project id="api" values="0" collectionTime="1488124501230" />
+      <project id="MyPhpArchitecture" values="0" collectionTime="1487532118434" />
+      <project id="stail_account" values="0" collectionTime="1487682514096" />
+      <project id="admin_panel" values="0" collectionTime="1488206849521" />
+      <project id="slim3-multilanguage" values="0" collectionTime="1489251767988" />
+      <project id="pocketmanager" values="0" collectionTime="1487343570009" />
+      <project id="net_flycraft-network_plugcraft" values="0" collectionTime="1489129174921" />
+      <project id="fr_lefuturiste_tools" values="0" collectionTime="1488042702580" />
+    </group>
+    <group name="file-type">
+      <project id="stail.eu" values="Images,C++,CSS,HTML,ReST,Twig,htaccess,JSON Schema,PLAIN_TEXT,PHP,Markdown,YAML,PHAR,XML" collectionTime="1488206727903" />
+      <project id="pocketmanager" values="PHP,PLAIN_TEXT,JSON Schema" collectionTime="1487343567233" />
+      <project id="net_flycraft-network_plugcraft" values="JavaScript,Markdown,SCSS,Images,Twig,Ini,HTML,JSON Schema,ReST,SQL,CSS,PHAR,SourceMap,YAML,PLAIN_TEXT,UNKNOWN,PHP,C++,htaccess,XML" collectionTime="1489129174196" />
+      <project id="fr_lefuturiste_tools" values="PLAIN_TEXT,C++,htaccess,HTML,Markdown,XML,Twig,PHP,CSS,Images,PHAR,ReST,JSON Schema,YAML" collectionTime="1488042702578" />
+      <project id="admin_panel" values="UNKNOWN,ReST,SourceMap,PHP,Twig,JSON Schema,YAML,C++,PHAR,htaccess,XML,Markdown,PLAIN_TEXT,HTML,CSS,Ini,SCSS" collectionTime="1488206849514" />
+      <project id="slim3-multilanguage" values="Markdown,PLAIN_TEXT" collectionTime="1489251767041" />
+      <project id="MyPhpArchitecture" values="Images,htaccess,CSS,C++,Markdown,PLAIN_TEXT,PHAR,YAML,ReST,Twig,HTML,XML,Ini,JSON Schema,PHP" collectionTime="1487532118416" />
+      <project id="fr_lefuturiste_www" values="PHAR,YAML,PHP,CSS,JavaScript,Markdown,htaccess,Images,C++,XML,PLAIN_TEXT,ReST,JSON Schema,HTML,Twig" collectionTime="1489251769844" />
+    </group>
+    <group name="Command line tool">
+      <project id="MyPhpArchitecture" values="console in toolwindow" collectionTime="1487532118445" />
+      <project id="fr_lefuturiste_www" values="console in toolwindow" collectionTime="1489251769924" />
+      <project id="net_flycraft-network_plugcraft" values="console in toolwindow" collectionTime="1489129175141" />
+      <project id="admin_panel" values="console in toolwindow" collectionTime="1488206849522" />
+      <project id="pocketmanager" values="console in toolwindow" collectionTime="1487343570125" />
+      <project id="stail.eu" values="console in toolwindow" collectionTime="1488206728536" />
+    </group>
+    <group name="php-interpreter-debug-ext">
+      <project id="fr_lefuturiste_www" values="xdebug" collectionTime="1489251769923" />
+      <project id="pocketmanager" values="xdebug" collectionTime="1487343570025" />
+      <project id="MyPhpArchitecture" values="xdebug" collectionTime="1487532118435" />
+    </group>
+    <group name="php-interpreters">
+      <project id="stail.eu" values="1" collectionTime="1488206728504" />
+      <project id="fr_lefuturiste_www" values="1" collectionTime="1489251769881" />
+      <project id="api" values="1" collectionTime="1488124501338" />
+      <project id="MyPhpArchitecture" values="1" collectionTime="1487532118434" />
+      <project id="stail_account" values="1" collectionTime="1487682514204" />
+      <project id="admin_panel" values="1" collectionTime="1488206849521" />
+      <project id="slim3-multilanguage" values="1" collectionTime="1489251768136" />
+      <project id="pocketmanager" values="1" collectionTime="1487343570025" />
+      <project id="net_flycraft-network_plugcraft" values="1" collectionTime="1489129175022" />
+      <project id="fr_lefuturiste_tools" values="1" collectionTime="1488042702580" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="stail.eu" values="ECMAScript 5.1" collectionTime="1488206728449" />
+      <project id="fr_lefuturiste_www" values="ECMAScript 5.1" collectionTime="1489251769848" />
+      <project id="api" values="ECMAScript 5.1" collectionTime="1488124501072" />
+      <project id="MyPhpArchitecture" values="ECMAScript 5.1" collectionTime="1487532118433" />
+      <project id="stail_account" values="ECMAScript 5.1" collectionTime="1487682513951" />
+      <project id="admin_panel" values="ECMAScript 5.1" collectionTime="1488206849519" />
+      <project id="slim3-multilanguage" values="ECMAScript 5.1" collectionTime="1489251767910" />
+      <project id="pocketmanager" values="ECMAScript 5.1" collectionTime="1487343569940" />
+      <project id="net_flycraft-network_plugcraft" values="ECMAScript 5.1" collectionTime="1489129174793" />
+      <project id="fr_lefuturiste_tools" values="ECMAScript 5.1" collectionTime="1488042702579" />
+    </group>
+    <group name="images.ide.background">
+      <project id="stail.eu" values="editor 0,frame 0" collectionTime="1488206727911" />
+      <project id="fr_lefuturiste_www" values="frame 0,editor 0" collectionTime="1489251769846" />
+      <project id="api" values="frame 0,editor 0" collectionTime="1488124500523" />
+      <project id="MyPhpArchitecture" values="frame 0,editor 0" collectionTime="1487532118417" />
+      <project id="stail_account" values="editor 0,frame 0" collectionTime="1487682513254" />
+      <project id="admin_panel" values="frame 0,editor 0" collectionTime="1488206849514" />
+      <project id="slim3-multilanguage" values="frame 0,editor 0" collectionTime="1489251767042" />
+      <project id="pocketmanager" values="frame 0,editor 0" collectionTime="1487343567233" />
+      <project id="net_flycraft-network_plugcraft" values="frame 0,editor 0" collectionTime="1489129174196" />
+      <project id="fr_lefuturiste_tools" values="editor 0,frame 0" collectionTime="1488042702578" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="stail.eu" values="0" collectionTime="1488206728504" />
+      <project id="fr_lefuturiste_www" values="0" collectionTime="1489251769923" />
+      <project id="api" values="0" collectionTime="1488124501340" />
+      <project id="MyPhpArchitecture" values="0" collectionTime="1487532118435" />
+      <project id="stail_account" values="0" collectionTime="1487682514206" />
+      <project id="admin_panel" values="0" collectionTime="1488206849521" />
+      <project id="slim3-multilanguage" values="0" collectionTime="1489251768138" />
+      <project id="pocketmanager" values="0" collectionTime="1487343570025" />
+      <project id="net_flycraft-network_plugcraft" values="0" collectionTime="1489129175024" />
+      <project id="fr_lefuturiste_tools" values="0" collectionTime="1488042702580" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="stail.eu" values="Project,Project" collectionTime="1488206728449" />
+      <project id="fr_lefuturiste_www" values="Project,Project" collectionTime="1489251769848" />
+      <project id="api" values="Project,Project" collectionTime="1488124501072" />
+      <project id="MyPhpArchitecture" values="Project,Project" collectionTime="1487532118433" />
+      <project id="stail_account" values="Project,Project" collectionTime="1487682513950" />
+      <project id="admin_panel" values="Project,Project" collectionTime="1488206849519" />
+      <project id="slim3-multilanguage" values="Project,Project" collectionTime="1489251767910" />
+      <project id="pocketmanager" values="Project,Project" collectionTime="1487343569940" />
+      <project id="net_flycraft-network_plugcraft" values="Project,Project" collectionTime="1489129174793" />
+      <project id="fr_lefuturiste_tools" values="Project,Project" collectionTime="1488042702579" />
+    </group>
+    <group name="module type">
+      <project id="stail.eu" values="WEB_MODULE" collectionTime="1488206727613" />
+      <project id="fr_lefuturiste_www" values="WEB_MODULE" collectionTime="1489251769823" />
+      <project id="api" values="WEB_MODULE" collectionTime="1488124500464" />
+      <project id="MyPhpArchitecture" values="WEB_MODULE" collectionTime="1487532118395" />
+      <project id="stail_account" values="WEB_MODULE" collectionTime="1487682513207" />
+      <project id="admin_panel" values="WEB_MODULE" collectionTime="1488206849504" />
+      <project id="slim3-multilanguage" values="WEB_MODULE" collectionTime="1489251767009" />
+      <project id="pocketmanager" values="WEB_MODULE" collectionTime="1487343567202" />
+      <project id="net_flycraft-network_plugcraft" values="WEB_MODULE" collectionTime="1489129174146" />
+      <project id="fr_lefuturiste_tools" values="WEB_MODULE" collectionTime="1488042702567" />
+    </group>
+    <group name="php-include-path">
+      <project id="stail.eu" values="0" collectionTime="1488206728460" />
+      <project id="fr_lefuturiste_www" values="0" collectionTime="1489251769848" />
+      <project id="api" values="0" collectionTime="1488124501203" />
+      <project id="MyPhpArchitecture" values="0" collectionTime="1487532118434" />
+      <project id="stail_account" values="0" collectionTime="1487682514080" />
+      <project id="admin_panel" values="0" collectionTime="1488206849521" />
+      <project id="slim3-multilanguage" values="0" collectionTime="1489251767953" />
+      <project id="pocketmanager" values="0" collectionTime="1487343569956" />
+      <project id="net_flycraft-network_plugcraft" values="0" collectionTime="1489129174910" />
+      <project id="fr_lefuturiste_tools" values="0" collectionTime="1488042702579" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.PHP Empty Project" count="14" />
+      <entry feature="CreateFile.CreateFileAction" count="147" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="2" />
+      <entry feature="OpenInBrowser.Chrome" count="4" />
+      <entry feature="OpenInBrowser.Firefox" count="8" />
+      <entry feature="execute.JavascriptDebugType.Run" count="2" />
+      <entry feature="ide.settings.Appearance" count="1" />
+      <entry feature="ide.settings.Code_Style" count="2" />
+      <entry feature="ide.settings.Colors_&amp;_Fonts" count="30" />
+      <entry feature="ide.settings.File_Types" count="1" />
+      <entry feature="ide.settings.File_and_Code_Templates" count="3" />
+      <entry feature="ide.settings.Font" count="2" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Keymap" count="9" />
+      <entry feature="ide.settings.PHP" count="3" />
+      <entry feature="ide.settings.Plugins" count="4" />
+      <entry feature="ideaapp.started" count="93" />
+      <entry feature="terminal.win" count="3" />
+      <entry feature="tips.of.the.day.next" count="12" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="4" />
+      <entry feature="welcome.screen.WelcomeScreen.Settings" count="1" />
+      <entry feature="welcome.screen.null" count="3" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="2203" y="94" />
+    <location key="#Interpreters.0.0.1600.900" x="380" y="25" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="799" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1600.900" x="507" y="261" />
+    <location key="SettingsEditor.0.0.1600.900" x="281" y="99" />
+    <location key="#PHP.0.0.1600.900" x="515" y="123" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$1.0.0.1600.900" x="630" y="60" />
+    <location key="FileChooserDialogImpl.1600.0.1366.768" x="2109" y="195" />
+    <location key="#Browse_Repositories.0.0.1600.900" x="380" y="98" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1600.900" x="560" y="240" />
+    <size key="javadoc.popup.0.0.1600.900" width="446" height="170" />
+  </component>
+</application>

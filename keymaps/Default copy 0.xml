@@ -1,0 +1,36 @@
+<keymap version="1" name="Default copy 0" parent="$default">
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="GotoFile" />
+  <action id="RenameProject">
+    <keyboard-shortcut first-keystroke="shift alt f2" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="com.jetbrains.php.composer.ComposerInitSupportAction">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="com.jetbrains.php.internal.PhpShowTypeInfoAction">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+</keymap>
